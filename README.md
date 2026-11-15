@@ -35,7 +35,7 @@ I am an MCA student and BCA graduate passionate about technology, programming an
 ## 📂 My Projects
 
 - 🍽️ Hungry Palette – AI-Driven Event and Catering Management System
-- 🏨 Online Hotel Booking Management System
+- 🏨 Ecotrack - Smart Waste Management for a Greener Kerala.
 - 💻 More projects coming soon!
 
 ---
