@@ -67,18 +67,20 @@ Smart waste management concept for a greener Kerala.
 </table>
 
 ---
-
-## GITHUB STATISTICS
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=angelinnoble&show_icons=true&theme=github_dark&hide_border=true" />
+<!-- GitHub Profile Stats -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=angelinnoble&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD000&icon_color=FFD000&text_color=FFFFFF&bg_color=0D1117" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelinnoble&layout=compact&theme=github_dark&hide_border=true" />
+<!-- Most Used Languages -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelinnoble&layout=compact&theme=github_dark&hide_border=true&title_color=FFD000&text_color=FFFFFF&bg_color=0D1117" />
+
+<!-- Contribution Streak -->
+<img width="90%" src="https://streak-stats.demolab.com?user=angelinnoble&theme=dark&hide_border=true&ring=FFD000&fire=FFD000&currStreakLabel=FFD000" />
 
 </div>
-
----
 
 ## CONNECT WITH ME
 
