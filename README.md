@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="images/header.png" width="100%" />
+<img src="images/header.png.png" width="100%" />
 
 # 👋 HELLO WORLD, I'M ANGELIN NOBLE!
 
